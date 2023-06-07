@@ -97,6 +97,9 @@ footer {
   min-height: 200px;
   background-color: rgb(130, 107, 152);
 }
+.greeting {
+  text-align: center;
+}
 @media (max-width: 768px) {
     .column {
       flex: 100%;
